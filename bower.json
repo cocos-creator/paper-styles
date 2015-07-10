@@ -1,6 +1,6 @@
 {
   "name": "paper-styles",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Common (global) styles for Material Design elements.",
   "authors": [
     "The Polymer Authors"
@@ -12,11 +12,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/PolymerElements/paper-styles.git"
+    "url": "git://github.com/fireball-x/paper-styles.git"
   },
   "main": "paper-styles.html",
   "license": "http://polymer.github.io/LICENSE.txt",
-  "homepage": "https://github.com/polymerelements/paper-styles/",
+  "homepage": "https://github.com/fireball-x/paper-styles/",
   "ignore": [
     "/.*"
   ],
