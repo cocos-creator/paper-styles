@@ -12,17 +12,16 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/PolymerElements/paper-styles.git"
+    "url": "git://github.com/w88975/paper-styles.git"
   },
   "main": "paper-styles.html",
   "license": "http://polymer.github.io/LICENSE.txt",
-  "homepage": "https://github.com/polymerelements/paper-styles/",
+  "homepage": "https://github.com/w88975/paper-styles/",
   "ignore": [
     "/.*"
   ],
   "dependencies": {
     "iron-flex-layout": "PolymerElements/iron-flex-layout#^1.0.0",
-    "font-roboto": "PolymerElements/font-roboto#^1.0.0",
     "polymer": "Polymer/polymer#^1.0.0"
   },
   "devDependencies": {
